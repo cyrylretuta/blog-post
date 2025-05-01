@@ -32,4 +32,4 @@ Git and Deployment Issues: Initially faced some issues with pushing changes to G
 
 ## Deployment
 
-Live demo here: (https://cyrylretuta.github.io/blog-post/)
+The site is hosted at: [Live Demo](https://cyrylretuta.github.io/blog-post/)
