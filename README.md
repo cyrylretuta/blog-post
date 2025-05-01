@@ -30,8 +30,6 @@ Managing Axios Requests: Handling asynchronous data fetching with useEffect and 
 
 Git and Deployment Issues: Initially faced some issues with pushing changes to GitHub and linking the repository with deployment services like Vercel.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
 ## Deployment
 
-Live demo here: [https://cyrylretuta.github.io/blog-post/]
+Live demo here: (https://cyrylretuta.github.io/blog-post/)
